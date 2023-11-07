@@ -1,0 +1,8 @@
+section{
+    display: flex;
+}
+video{
+    height: 100vh;
+    width: 50vw;
+    border: 1px solid black;
+}
